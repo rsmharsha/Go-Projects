@@ -57,4 +57,4 @@ go build -o github-activity .
 
 ## Project URL
 
-[roadmap.sh - GitHub User Activity](https://roadmap.sh/projects/github-user-activity)
+https://roadmap.sh/projects/github-user-activity
