@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1,
+  "description": "Code in Go",
+  "status": "todo",
+  "createdAt": "2026-03-11T10:45:37.5929176+05:30",
+  "updatedAt": "2026-03-11T10:45:37.5929176+05:30"
+ },
+ {
+  "id": 2,
+  "description": "buy groceries",
+  "status": "todo",
+  "createdAt": "2026-03-11T22:04:57.4371283+05:30",
+  "updatedAt": "2026-03-11T22:04:57.4371283+05:30"
+ },
+ {
+  "id": 3,
+  "description": "learn JS",
+  "status": "done",
+  "createdAt": "2026-03-11T22:05:22.5266468+05:30",
+  "updatedAt": "2026-03-11T22:05:35.9381145+05:30"
+ }
+]
